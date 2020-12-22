@@ -11,7 +11,7 @@ Outlet provides a wide variety of contents ranging from lawn mowing services to 
 
 Our Slogan: "We don't charge, we provide!"
 
-Note: Outlet is capable of operating with its full function on most types of browsers and mobile sevices.
+Note: Outlet is capable of operating with its full function on most types of browsers (e.g. Chrome, Safari, Firefox, Explorer, etc.) and mobile sevices (e.g. iOS, Android, etc.).
 
 
 ## Getting Started
