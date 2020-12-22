@@ -1,10 +1,5 @@
-
-     ,-----.             .-.   .-.           .-.
-    ' .---. ' ,--.,--.  _| |_  | |   ,--.   _| |_
-    | |   | | |  ||  | |_   _| | |  |  o | |_   _|
-    ' '---' ' '  ''  '   | |   | |  ' -..    | |
-     `-----'   `----'    '--'  '--'  `---'   '--' 
-    ----------------------------------------------
+![alt text](https://github.com/ixxan/Outlet/blob/master/Project/pages/images/outlet.png)
+# Outlet
 
 Outlet is a multi-purpose website providing users a platform to share, earn, help, save, and give while enjoying the great features presented by the website. 
 Outlet provides a wide variety of contents ranging from lawn mowing services to free t-shirt giveaways.
