@@ -5,8 +5,7 @@
     ' '---' ' '  ''  '   | |   | |  ' -..    | |
      `-----'   `----'    '--'  '--'  `---'   '--' 
     ----------------------------------------------
-   
-
+  
 
 # Outlet
 
@@ -19,6 +18,7 @@ Note: Outlet is capable of operating with its full function on most types of bro
 
 
 ## Getting Started
+### (NOTE: c9.io has been shut down on December 31, 2019, therefore, this website may no longer be running normally, feel free to contact irpan1130@gmail.com for any inquiry.)
 
 1) Open the PHP workspace called 'farraguthigh3/outlet'.
 2) Click on the "Run Project" button at the center of the top bar.
@@ -87,7 +87,7 @@ Feel free to change the password in the User Profile page, which can also be fou
 
 
 ## Authors
-    Irpan Abdurahman - Team Qros
+    Irpan Abdurahman - Team Qros, Captain
     John Murtha - Team Qros
     Marlin Ford - Team Qros
     Eugene Lee - Team Qros
