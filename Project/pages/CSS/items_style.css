@@ -1,0 +1,459 @@
+/*product*/
+#product_box
+{
+    width: auto;
+    height: auto;
+    text-align: center;
+    margin: 15px;
+}
+
+#single_product
+{
+    float: left;
+    margin-bottom: 10px;
+    padding: 5px;
+    width: auto;
+    height: auto;
+    background: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+}
+
+#single_product img
+{
+    max-width:205px; 
+    height: 160px;
+    padding: 2px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#single_product p
+{
+    width: 205px;
+    height: 80px;
+    padding: 2px;
+    word-break: break-all;
+}
+
+#single_product_detail
+{
+    min-width: 300px;
+    float: left;
+    margin-bottom: 10px;
+    padding: 5px;
+    width: auto;
+    height: auto;
+    background: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+}
+
+#single_product_detail img
+{
+    max-width: 400px;
+    max-height: 600px;
+    float: initial;
+    padding: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#single_product_detail 
+    p[name='goback-button']
+    {
+        float: left;
+        max-width: 50%;
+        padding: 10px;
+    }
+    p[name='report_button']
+    {
+        float: right;
+        max-width: 50%;
+        padding: 10px;
+    }
+    
+#single_product_detail 
+    p[name='product-name']
+    {
+        text-align: center;
+        font-size:24px;
+        font-weight: 500;
+        padding: 10px;
+        word-break: break-all;
+    }
+    
+#single_product_detail 
+    p[name='product-price']
+    {
+        margin: 10px;
+        font-size:20px;
+        font-weight: 500;
+        word-break: break-all;
+    }
+
+#single_product_detail 
+    div[name='product-detail']
+    {
+        display: table;
+        margin-bottom: 10px;
+        padding: 5px;
+        width: 100%;
+        background: #fff;
+        word-break: break-all;
+    }
+    
+.info
+    {
+        display: table-cell;
+        margin-bottom: 10px;
+        padding: 5px;
+        width: 50%;
+        background: #fff;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+        word-break: break-all;
+    }
+@media (max-width: 768px) 
+{
+    .info
+    {
+        display: block;
+        margin-bottom: 5px;
+        padding: 5px;
+        width: 100%;
+        background: #fff;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+        word-break: break-all;
+    }
+}
+
+/*service*/
+#service_box
+{
+    display: inline-grid;
+    width: auto;
+    height: auto;
+    margin: 15px;
+}
+
+#single_service
+{
+    display: inline-grid;
+    float: left;
+    margin: 10px;
+    padding: 5px;
+    max-width: 100%;
+    height: auto;
+    background: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+}
+#single_service h4
+{
+    margin: 5px;
+    float: left;
+    width:auto;
+    word-break: break-all;
+}
+#single_service p
+{
+    margin: 5px;
+    float: left;
+    width: auto;
+    word-break: break-all;
+}
+
+#single_service_detail
+{
+    min-width: 300px;
+    float: left;
+    margin-bottom: 10px;
+    padding: 5px;
+    width: auto;
+    height: auto;
+    background: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+}
+
+#single_service_detail 
+    p[name='goback-button']
+    {
+        float: left;
+        max-width: 50%;
+        padding: 10px;
+    }
+    p[name='report_button']
+    {
+        float: right;
+        max-width: 50%;
+        padding: 10px;
+    }
+    
+#single_service_detail 
+    p[name='service-name']
+    {
+        text-align: center;
+        font-size:24px;
+        font-weight: 500;
+        padding: 10px;
+        word-break: break-all;
+    }
+    
+#single_service_detail 
+    p[name='service-chargeRate']
+    {
+        margin: 10px;
+        font-size:20px;
+        font-weight: 500;
+        word-break: break-all;
+    }
+
+#single_service_detail 
+    div[name='service-info']
+    {
+        display: table;
+        margin-bottom: 10px;
+        padding: 5px;
+        width: 100%;
+        background: #fff;
+        word-break: break-all;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+    }
+ 
+
+/*coupon*/
+#coupon_box
+{
+    width: auto;
+    height: auto;
+    text-align: center;
+    margin: 15px;
+}
+
+#single_coupon
+{
+    display: inline-grid;
+    float: left;
+    margin: 10px;
+    padding: 5px;
+    max-width: 100%;
+    height: auto;
+    background: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+}
+#single_coupon h4
+{
+    text-align: center;
+    margin: 5px;
+    float: left;
+    width:auto;
+    word-break: break-all;
+}
+#single_coupon p
+{
+    text-align: center;
+    margin: 5px;
+    float: left;
+    width: auto;
+    word-break: break-all;
+}
+
+#single_coupon_detail
+{
+    min-width: 300px;
+    float: left;
+    margin-bottom: 10px;
+    padding: 5px;
+    width: auto;
+    height: auto;
+    background: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+}
+
+#single_coupon_detail 
+    p[name='goback-button']
+    {
+        float: left;
+        max-width: 50%;
+        padding: 10px;
+    }
+    p[name='report_button']
+    {
+        float: right;
+        max-width: 50%;
+        padding: 10px;
+    }
+    
+#single_coupon_detail 
+    p[name='coupon-name']
+    {
+        text-align: center;
+        font-size:24px;
+        font-weight: 500;
+        padding: 10px;
+        word-break: break-all;
+    }
+
+#single_coupon_detail 
+    div[name='coupon-detail']
+    {
+        display: table;
+        margin-bottom: 10px;
+        padding: 5px;
+        width: 100%;
+        background: #fff;
+        word-break: break-all;
+    }
+    
+    .info_description
+    {
+        display: table-cell;
+        margin-bottom: 10px;
+        padding: 5px;
+        width: 50%;
+        background: #fff;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+        word-break: break-all;
+    }
+    .info_others
+     {
+        display: table-cell;
+        margin-bottom: 10px;
+        padding: 0px;
+        width: 50%;
+        background: #fff;
+        word-break: break-all;
+    }
+    .info_others div[name='coupon-info-2']
+     {
+        padding: 5px;
+        display: block;
+        background: #fff;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+        word-break: break-all;
+    }
+@media (max-width: 862px) 
+{
+    .info_description
+    {
+        display: block;
+        margin-bottom: 5px;
+        padding: 5px;
+        width: 100%;
+        background: #fff;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+        word-break: break-all;
+    }
+    .info_others
+     {
+        display: block;
+        margin-bottom: 10px;
+        width: 100%;
+        background: #fff;
+        word-break: break-all;
+    }
+}
+
+/*giveaway*/
+#giveaway_box
+{
+    width: auto;
+    height: auto;
+    text-align: center;
+    margin: 15px;
+}
+
+#single_giveaway
+{
+    float: left;
+    margin-bottom: 10px;
+    padding: 5px;
+    width: auto;
+    height: auto;
+    background: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+}
+
+#single_giveaway img
+{
+    max-width:205px; 
+    height: 160px;
+    padding: 2px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#single_giveaway p
+{
+    width: 205px;
+    height: 40px;
+    padding: 2px;
+    word-break: break-all;
+}
+
+#single_giveaway_detail
+{
+    min-width: 300px;
+    float: left;
+    margin-bottom: 10px;
+    padding: 5px;
+    width: auto;
+    height: auto;
+    background: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+}
+
+#single_giveaway_detail img
+{
+    max-width: 400px;
+    max-height: 600px;
+    float: initial;
+    padding: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#single_giveaway_detail 
+    p[name='goback-button']
+    {
+        float: left;
+        max-width: 50%;
+        padding: 10px;
+    }
+    p[name='report_button']
+    {
+        float: right;
+        max-width: 50%;
+        padding: 10px;
+    }
+    
+#single_giveaway_detail 
+    p[name='giveaway-name']
+    {
+        text-align: center;
+        font-size:24px;
+        font-weight: 500;
+        padding: 10px;
+    }
+
+#single_giveaway_detail 
+    div[name='giveaway-info']
+    {
+        display: table;
+        margin-bottom: 10px;
+        padding: 5px;
+        width: 100%;
+        background: #fff;
+        word-break: break-all;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+}
+
+
+    button[class='delete-button']
+    {
+        color:red;
+        float: left;
+        width: auto ;
+        
+    }

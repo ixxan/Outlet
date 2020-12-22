@@ -1,0 +1,574 @@
+[26-Feb-2019 14:50:19 UTC] PHP Warning:  require(/Project/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project/pages/sentmail.php on line 7
+[26-Feb-2019 14:50:19 UTC] PHP Stack trace:
+[26-Feb-2019 14:50:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/sentmail.php:0
+[26-Feb-2019 14:50:19 UTC] PHP Fatal error:  require(): Failed opening required '/Project/PHPMailer/src/Exception.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Project/pages/sentmail.php on line 7
+[26-Feb-2019 14:50:19 UTC] PHP Stack trace:
+[26-Feb-2019 14:50:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/sentmail.php:0
+[26-Feb-2019 14:51:17 UTC] PHP Warning:  require(/Project/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project/pages/sentmail.php on line 7
+[26-Feb-2019 14:51:17 UTC] PHP Stack trace:
+[26-Feb-2019 14:51:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/sentmail.php:0
+[26-Feb-2019 14:51:17 UTC] PHP Fatal error:  require(): Failed opening required '/Project/PHPMailer/src/Exception.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Project/pages/sentmail.php on line 7
+[26-Feb-2019 14:51:17 UTC] PHP Stack trace:
+[26-Feb-2019 14:51:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/sentmail.php:0
+[26-Feb-2019 14:51:20 UTC] PHP Warning:  require(/Project/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project/pages/sentmail.php on line 7
+[26-Feb-2019 14:51:20 UTC] PHP Stack trace:
+[26-Feb-2019 14:51:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/sentmail.php:0
+[26-Feb-2019 14:51:20 UTC] PHP Fatal error:  require(): Failed opening required '/Project/PHPMailer/src/Exception.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Project/pages/sentmail.php on line 7
+[26-Feb-2019 14:51:20 UTC] PHP Stack trace:
+[26-Feb-2019 14:51:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/sentmail.php:0
+[26-Feb-2019 14:52:18 UTC] PHP Warning:  require(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/Project/pages/sentmail.php on line 7
+[26-Feb-2019 14:52:18 UTC] PHP Stack trace:
+[26-Feb-2019 14:52:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/sentmail.php:0
+[26-Feb-2019 14:52:18 UTC] PHP Warning:  require(https://outlet-ixxan.c9users.io/Project/PHPMailer/src/Exception.php): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/Project/pages/sentmail.php on line 7
+[26-Feb-2019 14:52:18 UTC] PHP Stack trace:
+[26-Feb-2019 14:52:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/sentmail.php:0
+[26-Feb-2019 14:52:18 UTC] PHP Fatal error:  require(): Failed opening required 'https://outlet-ixxan.c9users.io/Project/PHPMailer/src/Exception.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Project/pages/sentmail.php on line 7
+[26-Feb-2019 14:52:18 UTC] PHP Stack trace:
+[26-Feb-2019 14:52:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/sentmail.php:0
+[26-Feb-2019 14:52:20 UTC] PHP Warning:  require(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/Project/pages/sentmail.php on line 7
+[26-Feb-2019 14:52:20 UTC] PHP Stack trace:
+[26-Feb-2019 14:52:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/sentmail.php:0
+[26-Feb-2019 14:52:20 UTC] PHP Warning:  require(https://outlet-ixxan.c9users.io/Project/PHPMailer/src/Exception.php): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/Project/pages/sentmail.php on line 7
+[26-Feb-2019 14:52:20 UTC] PHP Stack trace:
+[26-Feb-2019 14:52:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/sentmail.php:0
+[26-Feb-2019 14:52:20 UTC] PHP Fatal error:  require(): Failed opening required 'https://outlet-ixxan.c9users.io/Project/PHPMailer/src/Exception.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Project/pages/sentmail.php on line 7
+[26-Feb-2019 14:52:20 UTC] PHP Stack trace:
+[26-Feb-2019 14:52:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/sentmail.php:0
+[26-Feb-2019 14:52:53 UTC] PHP Warning:  require(/Project/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project/pages/sentmail.php on line 7
+[26-Feb-2019 14:52:53 UTC] PHP Stack trace:
+[26-Feb-2019 14:52:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/sentmail.php:0
+[26-Feb-2019 14:52:53 UTC] PHP Fatal error:  require(): Failed opening required '/Project/PHPMailer/src/Exception.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Project/pages/sentmail.php on line 7
+[26-Feb-2019 14:52:53 UTC] PHP Stack trace:
+[26-Feb-2019 14:52:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/sentmail.php:0
+[26-Feb-2019 14:58:26 UTC] PHP Warning:  require(/Project/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project/pages/sentmail.php on line 7
+[26-Feb-2019 14:58:26 UTC] PHP Stack trace:
+[26-Feb-2019 14:58:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/sentmail.php:0
+[26-Feb-2019 14:58:26 UTC] PHP Fatal error:  require(): Failed opening required '/Project/PHPMailer/src/Exception.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Project/pages/sentmail.php on line 7
+[26-Feb-2019 14:58:26 UTC] PHP Stack trace:
+[26-Feb-2019 14:58:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/sentmail.php:0
+[26-Feb-2019 15:09:13 UTC] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project/pages/sentmail.php on line 10
+[26-Feb-2019 15:09:13 UTC] PHP Stack trace:
+[26-Feb-2019 15:09:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/sentmail.php:0
+[26-Feb-2019 15:09:13 UTC] PHP Fatal error:  require(): Failed opening required '../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Project/pages/sentmail.php on line 10
+[26-Feb-2019 15:09:13 UTC] PHP Stack trace:
+[26-Feb-2019 15:09:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/sentmail.php:0
+[26-Feb-2019 15:13:48 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/Project/pages.../Project/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project/pages/sentmail.php on line 7
+[26-Feb-2019 15:13:48 UTC] PHP Stack trace:
+[26-Feb-2019 15:13:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/sentmail.php:0
+[26-Feb-2019 15:13:48 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/Project/pages.../Project/PHPMailer/src/Exception.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Project/pages/sentmail.php on line 7
+[26-Feb-2019 15:13:48 UTC] PHP Stack trace:
+[26-Feb-2019 15:13:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/sentmail.php:0
+[26-Feb-2019 15:14:47 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/Project/pages.../Project/PHPMailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project/pages/sentmail.php on line 8
+[26-Feb-2019 15:14:47 UTC] PHP Stack trace:
+[26-Feb-2019 15:14:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/sentmail.php:0
+[26-Feb-2019 15:14:47 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/Project/pages.../Project/PHPMailer/src/PHPMailer.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Project/pages/sentmail.php on line 8
+[26-Feb-2019 15:14:47 UTC] PHP Stack trace:
+[26-Feb-2019 15:14:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/sentmail.php:0
+[26-Feb-2019 15:16:33 UTC] PHP Warning:  require(/Project/PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project/pages/sentmail.php on line 6
+[26-Feb-2019 15:16:33 UTC] PHP Stack trace:
+[26-Feb-2019 15:16:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/sentmail.php:0
+[26-Feb-2019 15:16:33 UTC] PHP Fatal error:  require(): Failed opening required '/Project/PHPMailer/PHPMailerAutoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Project/pages/sentmail.php on line 6
+[26-Feb-2019 15:16:33 UTC] PHP Stack trace:
+[26-Feb-2019 15:16:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/sentmail.php:0
+[26-Feb-2019 15:17:24 UTC] PHP Warning:  require(/Project/PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project/PHPMailer/sentmail.php on line 6
+[26-Feb-2019 15:17:24 UTC] PHP Stack trace:
+[26-Feb-2019 15:17:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/PHPMailer/sentmail.php:0
+[26-Feb-2019 15:17:24 UTC] PHP Fatal error:  require(): Failed opening required '/Project/PHPMailer/PHPMailerAutoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Project/PHPMailer/sentmail.php on line 6
+[26-Feb-2019 15:17:24 UTC] PHP Stack trace:
+[26-Feb-2019 15:17:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/PHPMailer/sentmail.php:0
+[26-Feb-2019 15:17:57 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/Project/PHPMailer.../Project/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project/PHPMailer/sentmail.php on line 7
+[26-Feb-2019 15:17:57 UTC] PHP Stack trace:
+[26-Feb-2019 15:17:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/PHPMailer/sentmail.php:0
+[26-Feb-2019 15:17:57 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/Project/PHPMailer.../Project/PHPMailer/src/Exception.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Project/PHPMailer/sentmail.php on line 7
+[26-Feb-2019 15:17:57 UTC] PHP Stack trace:
+[26-Feb-2019 15:17:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/PHPMailer/sentmail.php:0
+[03-Mar-2019 08:08:49 UTC] PHP Warning:  move_uploaded_file() expects parameter 1 to be string, array given in /home/ubuntu/workspace/Project/pages/productupload.php on line 11
+[03-Mar-2019 08:08:49 UTC] PHP Stack trace:
+[03-Mar-2019 08:08:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 08:08:49 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/Project/pages/productupload.php:11
+[03-Mar-2019 08:25:23 UTC] PHP Warning:  copy(): Filename cannot be empty in /home/ubuntu/workspace/Project/pages/productupload.php on line 13
+[03-Mar-2019 08:25:23 UTC] PHP Stack trace:
+[03-Mar-2019 08:25:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 08:25:23 UTC] PHP   2. copy() /home/ubuntu/workspace/Project/pages/productupload.php:13
+[03-Mar-2019 08:26:09 UTC] PHP Warning:  copy(): Filename cannot be empty in /home/ubuntu/workspace/Project/pages/productupload.php on line 13
+[03-Mar-2019 08:26:09 UTC] PHP Stack trace:
+[03-Mar-2019 08:26:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 08:26:09 UTC] PHP   2. copy() /home/ubuntu/workspace/Project/pages/productupload.php:13
+[03-Mar-2019 08:28:03 UTC] PHP Warning:  copy(): Filename cannot be empty in /home/ubuntu/workspace/Project/pages/productupload.php on line 13
+[03-Mar-2019 08:28:03 UTC] PHP Stack trace:
+[03-Mar-2019 08:28:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 08:28:03 UTC] PHP   2. copy() /home/ubuntu/workspace/Project/pages/productupload.php:13
+[03-Mar-2019 08:30:11 UTC] PHP Warning:  move_uploaded_file(/Project/pages/UserProductUpload): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project/pages/productupload.php on line 13
+[03-Mar-2019 08:30:11 UTC] PHP Stack trace:
+[03-Mar-2019 08:30:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 08:30:11 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/Project/pages/productupload.php:13
+[03-Mar-2019 08:30:11 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpWyU1me' to '/Project/pages/UserProductUpload' in /home/ubuntu/workspace/Project/pages/productupload.php on line 13
+[03-Mar-2019 08:30:11 UTC] PHP Stack trace:
+[03-Mar-2019 08:30:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 08:30:11 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/Project/pages/productupload.php:13
+[03-Mar-2019 08:30:52 UTC] PHP Warning:  copy(/Project/pages/UserProductUpload): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project/pages/productupload.php on line 13
+[03-Mar-2019 08:30:52 UTC] PHP Stack trace:
+[03-Mar-2019 08:30:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 08:30:52 UTC] PHP   2. copy() /home/ubuntu/workspace/Project/pages/productupload.php:13
+[03-Mar-2019 08:34:35 UTC] PHP Warning:  move_uploaded_file(/Project/pages/UserProductUploadoutlet-0001.png): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project/pages/productupload.php on line 13
+[03-Mar-2019 08:34:35 UTC] PHP Stack trace:
+[03-Mar-2019 08:34:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 08:34:35 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/Project/pages/productupload.php:13
+[03-Mar-2019 08:34:35 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpPbEOG9' to '/Project/pages/UserProductUploadoutlet-0001.png' in /home/ubuntu/workspace/Project/pages/productupload.php on line 13
+[03-Mar-2019 08:34:35 UTC] PHP Stack trace:
+[03-Mar-2019 08:34:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 08:34:35 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/Project/pages/productupload.php:13
+[03-Mar-2019 08:35:34 UTC] PHP Warning:  move_uploaded_file(/Project/pages/UserProductUpload/outlet-0001.png): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project/pages/productupload.php on line 13
+[03-Mar-2019 08:35:34 UTC] PHP Stack trace:
+[03-Mar-2019 08:35:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 08:35:34 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/Project/pages/productupload.php:13
+[03-Mar-2019 08:35:34 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpoiyrvK' to '/Project/pages/UserProductUpload/outlet-0001.png' in /home/ubuntu/workspace/Project/pages/productupload.php on line 13
+[03-Mar-2019 08:35:34 UTC] PHP Stack trace:
+[03-Mar-2019 08:35:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 08:35:34 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/Project/pages/productupload.php:13
+[03-Mar-2019 08:38:25 UTC] PHP Warning:  move_uploaded_file(/Project/pages/UserProductUpload/tab_logo.png): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project/pages/productupload.php on line 13
+[03-Mar-2019 08:38:25 UTC] PHP Stack trace:
+[03-Mar-2019 08:38:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 08:38:25 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/Project/pages/productupload.php:13
+[03-Mar-2019 08:38:25 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpz784Vb' to '/Project/pages/UserProductUpload/tab_logo.png' in /home/ubuntu/workspace/Project/pages/productupload.php on line 13
+[03-Mar-2019 08:38:25 UTC] PHP Stack trace:
+[03-Mar-2019 08:38:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 08:38:25 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/Project/pages/productupload.php:13
+[03-Mar-2019 08:40:39 UTC] PHP Warning:  move_uploaded_file(/Project/pages/UserProductUpload/): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project/pages/productupload.php on line 13
+[03-Mar-2019 08:40:39 UTC] PHP Stack trace:
+[03-Mar-2019 08:40:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 08:40:39 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/Project/pages/productupload.php:13
+[03-Mar-2019 08:40:39 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php474Ans' to '/Project/pages/UserProductUpload/' in /home/ubuntu/workspace/Project/pages/productupload.php on line 13
+[03-Mar-2019 08:40:39 UTC] PHP Stack trace:
+[03-Mar-2019 08:40:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 08:40:39 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/Project/pages/productupload.php:13
+[03-Mar-2019 08:41:35 UTC] PHP Warning:  move_uploaded_file(/Project/pages/UserProductUpload/outlet-0001.png): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project/pages/productupload.php on line 13
+[03-Mar-2019 08:41:35 UTC] PHP Stack trace:
+[03-Mar-2019 08:41:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 08:41:35 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/Project/pages/productupload.php:13
+[03-Mar-2019 08:41:35 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php9pX9AS' to '/Project/pages/UserProductUpload/outlet-0001.png' in /home/ubuntu/workspace/Project/pages/productupload.php on line 13
+[03-Mar-2019 08:41:35 UTC] PHP Stack trace:
+[03-Mar-2019 08:41:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 08:41:35 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/Project/pages/productupload.php:13
+[03-Mar-2019 08:42:03 UTC] PHP Warning:  copy(/Project/pages/UserProductUpload/outlet-0001.png): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project/pages/productupload.php on line 13
+[03-Mar-2019 08:42:03 UTC] PHP Stack trace:
+[03-Mar-2019 08:42:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 08:42:03 UTC] PHP   2. copy() /home/ubuntu/workspace/Project/pages/productupload.php:13
+[03-Mar-2019 09:01:05 UTC] PHP Warning:  move_uploaded_file(/Project/pages/UserUploads/5c7b97d1324124.62311160.png): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project/pages/productupload.php on line 19
+[03-Mar-2019 09:01:05 UTC] PHP Stack trace:
+[03-Mar-2019 09:01:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 09:01:05 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/Project/pages/productupload.php:19
+[03-Mar-2019 09:01:05 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpRbxMD7' to '/Project/pages/UserUploads/5c7b97d1324124.62311160.png' in /home/ubuntu/workspace/Project/pages/productupload.php on line 19
+[03-Mar-2019 09:01:05 UTC] PHP Stack trace:
+[03-Mar-2019 09:01:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 09:01:05 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/Project/pages/productupload.php:19
+[03-Mar-2019 09:03:15 UTC] PHP Warning:  move_uploaded_file(/home/ubuntu/workspace/Project/pages/Project/pages/UserUploads/5c7b98536701e0.93656648.png): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project/pages/productupload.php on line 19
+[03-Mar-2019 09:03:15 UTC] PHP Stack trace:
+[03-Mar-2019 09:03:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 09:03:15 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/Project/pages/productupload.php:19
+[03-Mar-2019 09:03:15 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpDwvKkh' to '/home/ubuntu/workspace/Project/pages/Project/pages/UserUploads/5c7b98536701e0.93656648.png' in /home/ubuntu/workspace/Project/pages/productupload.php on line 19
+[03-Mar-2019 09:03:15 UTC] PHP Stack trace:
+[03-Mar-2019 09:03:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 09:03:15 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/Project/pages/productupload.php:19
+[03-Mar-2019 09:03:15 UTC] PHP Warning:  move_uploaded_file(/home/ubuntu/workspace/Project/pages/Project/pages/UserUploads/5c7b98536701e0.93656648.png): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project/pages/productupload.php on line 20
+[03-Mar-2019 09:03:15 UTC] PHP Stack trace:
+[03-Mar-2019 09:03:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 09:03:15 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/Project/pages/productupload.php:20
+[03-Mar-2019 09:03:15 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpDwvKkh' to '/home/ubuntu/workspace/Project/pages/Project/pages/UserUploads/5c7b98536701e0.93656648.png' in /home/ubuntu/workspace/Project/pages/productupload.php on line 20
+[03-Mar-2019 09:03:15 UTC] PHP Stack trace:
+[03-Mar-2019 09:03:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 09:03:15 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/Project/pages/productupload.php:20
+[03-Mar-2019 09:06:20 UTC] PHP Warning:  move_uploaded_file(/home/ubuntu/workspace/Project/pages/Project/pages/UserUploads/5c7b990ce0cd87.87722048.png): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project/pages/productupload.php on line 19
+[03-Mar-2019 09:06:20 UTC] PHP Stack trace:
+[03-Mar-2019 09:06:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 09:06:20 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/Project/pages/productupload.php:19
+[03-Mar-2019 09:06:20 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php6BjNqa' to '/home/ubuntu/workspace/Project/pages/Project/pages/UserUploads/5c7b990ce0cd87.87722048.png' in /home/ubuntu/workspace/Project/pages/productupload.php on line 19
+[03-Mar-2019 09:06:20 UTC] PHP Stack trace:
+[03-Mar-2019 09:06:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 09:06:20 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/Project/pages/productupload.php:19
+[03-Mar-2019 09:06:20 UTC] PHP Warning:  is_uploaded_file() expects exactly 1 parameter, 2 given in /home/ubuntu/workspace/Project/pages/productupload.php on line 20
+[03-Mar-2019 09:06:20 UTC] PHP Stack trace:
+[03-Mar-2019 09:06:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 09:06:20 UTC] PHP   2. is_uploaded_file() /home/ubuntu/workspace/Project/pages/productupload.php:20
+[03-Mar-2019 09:25:54 UTC] PHP Warning:  move_uploaded_file(/home/ubuntu/workspace/Project/pages/Project/pages/UserUploads/5c7b9da27448c4.40537786.png): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project/pages/productupload.php on line 19
+[03-Mar-2019 09:25:54 UTC] PHP Stack trace:
+[03-Mar-2019 09:25:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 09:25:54 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/Project/pages/productupload.php:19
+[03-Mar-2019 09:25:54 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phplaBxNk' to '/home/ubuntu/workspace/Project/pages/Project/pages/UserUploads/5c7b9da27448c4.40537786.png' in /home/ubuntu/workspace/Project/pages/productupload.php on line 19
+[03-Mar-2019 09:25:54 UTC] PHP Stack trace:
+[03-Mar-2019 09:25:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 09:25:54 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/Project/pages/productupload.php:19
+[03-Mar-2019 09:26:20 UTC] PHP Warning:  move_uploaded_file(/home/ubuntu/workspace/Project/pages/Project/pages/UserUploads/5c7b9dbc461e77.58538321.png): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project/pages/productupload.php on line 19
+[03-Mar-2019 09:26:20 UTC] PHP Stack trace:
+[03-Mar-2019 09:26:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 09:26:20 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/Project/pages/productupload.php:19
+[03-Mar-2019 09:26:20 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpEsE6av' to '/home/ubuntu/workspace/Project/pages/Project/pages/UserUploads/5c7b9dbc461e77.58538321.png' in /home/ubuntu/workspace/Project/pages/productupload.php on line 19
+[03-Mar-2019 09:26:20 UTC] PHP Stack trace:
+[03-Mar-2019 09:26:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 09:26:20 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/Project/pages/productupload.php:19
+[03-Mar-2019 09:27:16 UTC] PHP Warning:  move_uploaded_file(/home/ubuntu/workspace/Project/pageshttps://outlet-ixxan.c9users.io/Project/pages/UserUploads/5c7b9df49a2165.48165908.png): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project/pages/productupload.php on line 19
+[03-Mar-2019 09:27:16 UTC] PHP Stack trace:
+[03-Mar-2019 09:27:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 09:27:16 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/Project/pages/productupload.php:19
+[03-Mar-2019 09:27:16 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpwUZU79' to '/home/ubuntu/workspace/Project/pageshttps://outlet-ixxan.c9users.io/Project/pages/UserUploads/5c7b9df49a2165.48165908.png' in /home/ubuntu/workspace/Project/pages/productupload.php on line 19
+[03-Mar-2019 09:27:16 UTC] PHP Stack trace:
+[03-Mar-2019 09:27:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 09:27:16 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/Project/pages/productupload.php:19
+[03-Mar-2019 09:27:54 UTC] PHP Warning:  move_uploaded_file(https://outlet-ixxan.c9users.io/Project/pages/UserUploads/): failed to open stream: HTTP wrapper does not support writeable connections in /home/ubuntu/workspace/Project/pages/productupload.php on line 19
+[03-Mar-2019 09:27:54 UTC] PHP Stack trace:
+[03-Mar-2019 09:27:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 09:27:54 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/Project/pages/productupload.php:19
+[03-Mar-2019 09:27:54 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phprVJtNK' to 'https://outlet-ixxan.c9users.io/Project/pages/UserUploads/' in /home/ubuntu/workspace/Project/pages/productupload.php on line 19
+[03-Mar-2019 09:27:54 UTC] PHP Stack trace:
+[03-Mar-2019 09:27:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 09:27:54 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/Project/pages/productupload.php:19
+[03-Mar-2019 09:29:40 UTC] PHP Warning:  move_uploaded_file(/home/ubuntu/workspacehttps://outlet-ixxan.c9users.io/Project/pages/UserUploads/): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project/pages/productupload.php on line 19
+[03-Mar-2019 09:29:40 UTC] PHP Stack trace:
+[03-Mar-2019 09:29:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 09:29:40 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/Project/pages/productupload.php:19
+[03-Mar-2019 09:29:40 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpPqfzhl' to '/home/ubuntu/workspacehttps://outlet-ixxan.c9users.io/Project/pages/UserUploads/' in /home/ubuntu/workspace/Project/pages/productupload.php on line 19
+[03-Mar-2019 09:29:40 UTC] PHP Stack trace:
+[03-Mar-2019 09:29:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 09:29:40 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/Project/pages/productupload.php:19
+[03-Mar-2019 09:30:10 UTC] PHP Warning:  move_uploaded_file(/home/ubuntu/workspace/Project/pageshttps://outlet-ixxan.c9users.io/Project/pages/UserUploads/): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project/pages/productupload.php on line 19
+[03-Mar-2019 09:30:10 UTC] PHP Stack trace:
+[03-Mar-2019 09:30:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 09:30:10 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/Project/pages/productupload.php:19
+[03-Mar-2019 09:30:10 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php2wl35U' to '/home/ubuntu/workspace/Project/pageshttps://outlet-ixxan.c9users.io/Project/pages/UserUploads/' in /home/ubuntu/workspace/Project/pages/productupload.php on line 19
+[03-Mar-2019 09:30:10 UTC] PHP Stack trace:
+[03-Mar-2019 09:30:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 09:30:10 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/Project/pages/productupload.php:19
+[03-Mar-2019 09:30:37 UTC] PHP Warning:  move_uploaded_file(/home/ubuntu/workspace/Project/pages/Project/pages/UserUploads/5c7b9ebd2e81f8.30708715.png): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project/pages/productupload.php on line 19
+[03-Mar-2019 09:30:37 UTC] PHP Stack trace:
+[03-Mar-2019 09:30:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 09:30:37 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/Project/pages/productupload.php:19
+[03-Mar-2019 09:30:37 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpRz3bL9' to '/home/ubuntu/workspace/Project/pages/Project/pages/UserUploads/5c7b9ebd2e81f8.30708715.png' in /home/ubuntu/workspace/Project/pages/productupload.php on line 19
+[03-Mar-2019 09:30:37 UTC] PHP Stack trace:
+[03-Mar-2019 09:30:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 09:30:37 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/Project/pages/productupload.php:19
+[03-Mar-2019 09:35:21 UTC] PHP Warning:  move_uploaded_file(/Project/pages/UserUploads/outlet-0001.png): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project/pages/productupload.php on line 19
+[03-Mar-2019 09:35:21 UTC] PHP Stack trace:
+[03-Mar-2019 09:35:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 09:35:21 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/Project/pages/productupload.php:19
+[03-Mar-2019 09:35:21 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpA7IVgl' to '/Project/pages/UserUploads/outlet-0001.png' in /home/ubuntu/workspace/Project/pages/productupload.php on line 19
+[03-Mar-2019 09:35:21 UTC] PHP Stack trace:
+[03-Mar-2019 09:35:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/productupload.php:0
+[03-Mar-2019 09:35:21 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/Project/pages/productupload.php:19
+[03-Mar-2019 12:27:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/Project/pages/postitems.php on line 238
+[03-Mar-2019 12:38:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/Project/pages/postitems.php on line 238
+[03-Mar-2019 14:07:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ubuntu/workspace/Project/pages/postitems.php:166) in /home/ubuntu/workspace/Project/pages/postitems.php on line 272
+[03-Mar-2019 14:07:06 UTC] PHP Stack trace:
+[03-Mar-2019 14:07:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/postitems.php:0
+[03-Mar-2019 14:07:06 UTC] PHP   2. header() /home/ubuntu/workspace/Project/pages/postitems.php:272
+[03-Mar-2019 14:07:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ubuntu/workspace/Project/pages/postitems.php:166) in /home/ubuntu/workspace/Project/pages/postitems.php on line 267
+[03-Mar-2019 14:07:53 UTC] PHP Stack trace:
+[03-Mar-2019 14:07:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/postitems.php:0
+[03-Mar-2019 14:07:53 UTC] PHP   2. header() /home/ubuntu/workspace/Project/pages/postitems.php:267
+[07-Mar-2019 01:36:46 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ubuntu/workspace/Project/pages/postitems.php on line 175
+[07-Mar-2019 01:36:48 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ubuntu/workspace/Project/pages/postitems.php on line 175
+[07-Mar-2019 01:36:50 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ubuntu/workspace/Project/pages/postitems.php on line 175
+[07-Mar-2019 03:37:49 UTC] PHP Fatal error:  Call to undefined function getProduct() in /home/ubuntu/workspace/Project/pages/products.php on line 159
+[07-Mar-2019 03:37:49 UTC] PHP Stack trace:
+[07-Mar-2019 03:37:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/products.php:0
+[07-Mar-2019 03:38:48 UTC] PHP Warning:  require(/Project/pages/UserUploads/upload_function.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project/pages/products.php on line 2
+[07-Mar-2019 03:38:48 UTC] PHP Stack trace:
+[07-Mar-2019 03:38:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/products.php:0
+[07-Mar-2019 03:38:48 UTC] PHP Fatal error:  require(): Failed opening required '/Project/pages/UserUploads/upload_function.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Project/pages/products.php on line 2
+[07-Mar-2019 03:38:48 UTC] PHP Stack trace:
+[07-Mar-2019 03:38:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/products.php:0
+[07-Mar-2019 03:39:13 UTC] PHP Warning:  require(upload_function.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project/pages/products.php on line 2
+[07-Mar-2019 03:39:13 UTC] PHP Stack trace:
+[07-Mar-2019 03:39:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/products.php:0
+[07-Mar-2019 03:39:13 UTC] PHP Fatal error:  require(): Failed opening required 'upload_function.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Project/pages/products.php on line 2
+[07-Mar-2019 03:39:13 UTC] PHP Stack trace:
+[07-Mar-2019 03:39:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/products.php:0
+[07-Mar-2019 03:42:36 UTC] PHP Warning:  include(/Project/pages/UserUploads/upload_function.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project/pages/products.php on line 2
+[07-Mar-2019 03:42:36 UTC] PHP Stack trace:
+[07-Mar-2019 03:42:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/products.php:0
+[07-Mar-2019 03:42:36 UTC] PHP Warning:  include(): Failed opening '/Project/pages/UserUploads/upload_function.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Project/pages/products.php on line 2
+[07-Mar-2019 03:42:36 UTC] PHP Stack trace:
+[07-Mar-2019 03:42:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/products.php:0
+[07-Mar-2019 03:42:36 UTC] PHP Fatal error:  Call to undefined function getProduct() in /home/ubuntu/workspace/Project/pages/products.php on line 162
+[07-Mar-2019 03:42:36 UTC] PHP Stack trace:
+[07-Mar-2019 03:42:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/products.php:0
+[07-Mar-2019 03:43:28 UTC] PHP Warning:  include(/Project/pages/UserUploads/upload_function.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project/pages/products.php on line 2
+[07-Mar-2019 03:43:28 UTC] PHP Stack trace:
+[07-Mar-2019 03:43:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/products.php:0
+[07-Mar-2019 03:43:28 UTC] PHP Warning:  include(): Failed opening '/Project/pages/UserUploads/upload_function.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Project/pages/products.php on line 2
+[07-Mar-2019 03:43:28 UTC] PHP Stack trace:
+[07-Mar-2019 03:43:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/products.php:0
+[07-Mar-2019 03:43:28 UTC] PHP Fatal error:  Call to undefined function getProduct() in /home/ubuntu/workspace/Project/pages/products.php on line 162
+[07-Mar-2019 03:43:28 UTC] PHP Stack trace:
+[07-Mar-2019 03:43:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/products.php:0
+[07-Mar-2019 03:45:43 UTC] PHP Warning:  include(/Project/pages/UserUploads/upload_function.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project/pages/products.php on line 2
+[07-Mar-2019 03:45:43 UTC] PHP Stack trace:
+[07-Mar-2019 03:45:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/products.php:0
+[07-Mar-2019 03:45:43 UTC] PHP Warning:  include(): Failed opening '/Project/pages/UserUploads/upload_function.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Project/pages/products.php on line 2
+[07-Mar-2019 03:45:43 UTC] PHP Stack trace:
+[07-Mar-2019 03:45:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/products.php:0
+[07-Mar-2019 03:45:43 UTC] PHP Fatal error:  Call to undefined function getProduct() in /home/ubuntu/workspace/Project/pages/products.php on line 162
+[07-Mar-2019 03:45:43 UTC] PHP Stack trace:
+[07-Mar-2019 03:45:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/products.php:0
+[07-Mar-2019 03:47:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 12
+[07-Mar-2019 03:47:02 UTC] PHP Stack trace:
+[07-Mar-2019 03:47:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/products.php:0
+[07-Mar-2019 03:47:02 UTC] PHP   2. getProduct() /home/ubuntu/workspace/Project/pages/products.php:162
+[07-Mar-2019 03:47:02 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php:12
+[07-Mar-2019 03:47:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 14
+[07-Mar-2019 03:47:02 UTC] PHP Stack trace:
+[07-Mar-2019 03:47:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/products.php:0
+[07-Mar-2019 03:47:02 UTC] PHP   2. getProduct() /home/ubuntu/workspace/Project/pages/products.php:162
+[07-Mar-2019 03:47:02 UTC] PHP   3. mysqli_fetch_array() /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php:14
+[07-Mar-2019 03:49:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 12
+[07-Mar-2019 03:49:40 UTC] PHP Stack trace:
+[07-Mar-2019 03:49:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/products.php:0
+[07-Mar-2019 03:49:40 UTC] PHP   2. getProduct() /home/ubuntu/workspace/Project/pages/products.php:162
+[07-Mar-2019 03:49:40 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php:12
+[07-Mar-2019 03:49:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 14
+[07-Mar-2019 03:49:40 UTC] PHP Stack trace:
+[07-Mar-2019 03:49:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/products.php:0
+[07-Mar-2019 03:49:40 UTC] PHP   2. getProduct() /home/ubuntu/workspace/Project/pages/products.php:162
+[07-Mar-2019 03:49:40 UTC] PHP   3. mysqli_fetch_array() /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php:14
+[07-Mar-2019 03:51:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 12
+[07-Mar-2019 03:51:18 UTC] PHP Stack trace:
+[07-Mar-2019 03:51:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/products.php:0
+[07-Mar-2019 03:51:18 UTC] PHP   2. getProduct() /home/ubuntu/workspace/Project/pages/products.php:162
+[07-Mar-2019 03:51:18 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php:12
+[07-Mar-2019 03:51:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 14
+[07-Mar-2019 03:51:18 UTC] PHP Stack trace:
+[07-Mar-2019 03:51:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/products.php:0
+[07-Mar-2019 03:51:18 UTC] PHP   2. getProduct() /home/ubuntu/workspace/Project/pages/products.php:162
+[07-Mar-2019 03:51:18 UTC] PHP   3. mysqli_fetch_array() /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php:14
+[07-Mar-2019 03:52:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 12
+[07-Mar-2019 03:52:35 UTC] PHP Stack trace:
+[07-Mar-2019 03:52:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/products.php:0
+[07-Mar-2019 03:52:35 UTC] PHP   2. getProduct() /home/ubuntu/workspace/Project/pages/products.php:162
+[07-Mar-2019 03:52:35 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php:12
+[07-Mar-2019 03:52:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 14
+[07-Mar-2019 03:52:35 UTC] PHP Stack trace:
+[07-Mar-2019 03:52:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/products.php:0
+[07-Mar-2019 03:52:35 UTC] PHP   2. getProduct() /home/ubuntu/workspace/Project/pages/products.php:162
+[07-Mar-2019 03:52:35 UTC] PHP   3. mysqli_fetch_array() /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php:14
+[07-Mar-2019 03:55:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 12
+[07-Mar-2019 03:55:31 UTC] PHP Stack trace:
+[07-Mar-2019 03:55:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/products.php:0
+[07-Mar-2019 03:55:31 UTC] PHP   2. getProduct() /home/ubuntu/workspace/Project/pages/products.php:162
+[07-Mar-2019 03:55:31 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php:12
+[07-Mar-2019 03:55:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 14
+[07-Mar-2019 03:55:31 UTC] PHP Stack trace:
+[07-Mar-2019 03:55:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/products.php:0
+[07-Mar-2019 03:55:31 UTC] PHP   2. getProduct() /home/ubuntu/workspace/Project/pages/products.php:162
+[07-Mar-2019 03:55:31 UTC] PHP   3. mysqli_fetch_array() /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php:14
+[07-Mar-2019 03:55:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 12
+[07-Mar-2019 03:55:35 UTC] PHP Stack trace:
+[07-Mar-2019 03:55:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/products.php:0
+[07-Mar-2019 03:55:35 UTC] PHP   2. getProduct() /home/ubuntu/workspace/Project/pages/products.php:162
+[07-Mar-2019 03:55:35 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php:12
+[07-Mar-2019 03:55:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 14
+[07-Mar-2019 03:55:35 UTC] PHP Stack trace:
+[07-Mar-2019 03:55:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/products.php:0
+[07-Mar-2019 03:55:35 UTC] PHP   2. getProduct() /home/ubuntu/workspace/Project/pages/products.php:162
+[07-Mar-2019 03:55:35 UTC] PHP   3. mysqli_fetch_array() /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php:14
+[07-Mar-2019 03:55:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 12
+[07-Mar-2019 03:55:42 UTC] PHP Stack trace:
+[07-Mar-2019 03:55:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/products.php:0
+[07-Mar-2019 03:55:42 UTC] PHP   2. getProduct() /home/ubuntu/workspace/Project/pages/products.php:162
+[07-Mar-2019 03:55:42 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php:12
+[07-Mar-2019 03:55:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 14
+[07-Mar-2019 03:55:42 UTC] PHP Stack trace:
+[07-Mar-2019 03:55:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/products.php:0
+[07-Mar-2019 03:55:42 UTC] PHP   2. getProduct() /home/ubuntu/workspace/Project/pages/products.php:162
+[07-Mar-2019 03:55:42 UTC] PHP   3. mysqli_fetch_array() /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php:14
+[07-Mar-2019 03:58:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 12
+[07-Mar-2019 03:58:36 UTC] PHP Stack trace:
+[07-Mar-2019 03:58:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/products.php:0
+[07-Mar-2019 03:58:36 UTC] PHP   2. getProduct() /home/ubuntu/workspace/Project/pages/products.php:162
+[07-Mar-2019 03:58:36 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php:12
+[07-Mar-2019 03:58:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 14
+[07-Mar-2019 03:58:36 UTC] PHP Stack trace:
+[07-Mar-2019 03:58:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/products.php:0
+[07-Mar-2019 03:58:36 UTC] PHP   2. getProduct() /home/ubuntu/workspace/Project/pages/products.php:162
+[07-Mar-2019 03:58:36 UTC] PHP   3. mysqli_fetch_array() /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php:14
+[07-Mar-2019 03:59:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 14
+[07-Mar-2019 03:59:31 UTC] PHP Stack trace:
+[07-Mar-2019 03:59:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/products.php:0
+[07-Mar-2019 03:59:31 UTC] PHP   2. getProduct() /home/ubuntu/workspace/Project/pages/products.php:162
+[07-Mar-2019 03:59:31 UTC] PHP   3. mysqli_fetch_array() /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php:14
+[07-Mar-2019 03:59:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 14
+[07-Mar-2019 03:59:58 UTC] PHP Stack trace:
+[07-Mar-2019 03:59:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/products.php:0
+[07-Mar-2019 03:59:58 UTC] PHP   2. getProduct() /home/ubuntu/workspace/Project/pages/products.php:162
+[07-Mar-2019 03:59:58 UTC] PHP   3. mysqli_fetch_array() /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php:14
+[07-Mar-2019 04:00:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 14
+[07-Mar-2019 04:00:00 UTC] PHP Stack trace:
+[07-Mar-2019 04:00:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/products.php:0
+[07-Mar-2019 04:00:00 UTC] PHP   2. getProduct() /home/ubuntu/workspace/Project/pages/products.php:162
+[07-Mar-2019 04:00:00 UTC] PHP   3. mysqli_fetch_array() /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php:14
+[07-Mar-2019 04:00:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 14
+[07-Mar-2019 04:00:46 UTC] PHP Stack trace:
+[07-Mar-2019 04:00:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/products.php:0
+[07-Mar-2019 04:00:46 UTC] PHP   2. getProduct() /home/ubuntu/workspace/Project/pages/products.php:162
+[07-Mar-2019 04:00:46 UTC] PHP   3. mysqli_fetch_array() /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php:14
+[07-Mar-2019 04:04:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 14
+[07-Mar-2019 04:04:04 UTC] PHP Stack trace:
+[07-Mar-2019 04:04:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/products.php:0
+[07-Mar-2019 04:04:04 UTC] PHP   2. getProduct() /home/ubuntu/workspace/Project/pages/products.php:162
+[07-Mar-2019 04:04:04 UTC] PHP   3. mysqli_fetch_array() /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php:14
+[21-Mar-2019 14:26:10 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 46
+[21-Mar-2019 14:26:10 UTC] PHP Stack trace:
+[21-Mar-2019 14:26:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/postitems.php:0
+[21-Mar-2019 15:55:24 UTC] PHP Parse error:  syntax error, unexpected 'list' (T_LIST), expecting ',' or ';' in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 86
+[21-Mar-2019 15:55:24 UTC] PHP Stack trace:
+[21-Mar-2019 15:55:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/services.php:0
+[24-Mar-2019 08:25:36 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ubuntu/workspace/Project/pages/servicedetail.php on line 159
+[24-Mar-2019 08:25:36 UTC] PHP Stack trace:
+[24-Mar-2019 08:25:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/servicedetail.php:0
+[24-Mar-2019 08:25:36 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/Project/pages/servicedetail.php:159
+[24-Mar-2019 11:08:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ubuntu/workspace/Project/pages/report.php:164) in /home/ubuntu/workspace/Project/pages/report.php on line 168
+[24-Mar-2019 11:08:55 UTC] PHP Stack trace:
+[24-Mar-2019 11:08:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/report.php:0
+[24-Mar-2019 11:08:55 UTC] PHP   2. header() /home/ubuntu/workspace/Project/pages/report.php:168
+[24-Mar-2019 11:09:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ubuntu/workspace/Project/pages/report.php:164) in /home/ubuntu/workspace/Project/pages/report.php on line 168
+[24-Mar-2019 11:09:16 UTC] PHP Stack trace:
+[24-Mar-2019 11:09:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/report.php:0
+[24-Mar-2019 11:09:16 UTC] PHP   2. header() /home/ubuntu/workspace/Project/pages/report.php:168
+[24-Mar-2019 11:09:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ubuntu/workspace/Project/pages/report.php:164) in /home/ubuntu/workspace/Project/pages/report.php on line 168
+[24-Mar-2019 11:09:52 UTC] PHP Stack trace:
+[24-Mar-2019 11:09:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/report.php:0
+[24-Mar-2019 11:09:52 UTC] PHP   2. header() /home/ubuntu/workspace/Project/pages/report.php:168
+[24-Mar-2019 11:10:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ubuntu/workspace/Project/pages/report.php:164) in /home/ubuntu/workspace/Project/pages/report.php on line 168
+[24-Mar-2019 11:10:06 UTC] PHP Stack trace:
+[24-Mar-2019 11:10:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/report.php:0
+[24-Mar-2019 11:10:06 UTC] PHP   2. header() /home/ubuntu/workspace/Project/pages/report.php:168
+[24-Mar-2019 11:10:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ubuntu/workspace/Project/pages/report.php:164) in /home/ubuntu/workspace/Project/pages/report.php on line 168
+[24-Mar-2019 11:10:46 UTC] PHP Stack trace:
+[24-Mar-2019 11:10:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/report.php:0
+[24-Mar-2019 11:10:46 UTC] PHP   2. header() /home/ubuntu/workspace/Project/pages/report.php:168
+[24-Mar-2019 11:18:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ubuntu/workspace/Project/pages/report.php:164) in /home/ubuntu/workspace/Project/pages/report.php on line 168
+[24-Mar-2019 11:18:41 UTC] PHP Stack trace:
+[24-Mar-2019 11:18:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/report.php:0
+[24-Mar-2019 11:18:41 UTC] PHP   2. header() /home/ubuntu/workspace/Project/pages/report.php:168
+[24-Mar-2019 11:19:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ubuntu/workspace/Project/pages/report.php:164) in /home/ubuntu/workspace/Project/pages/report.php on line 168
+[24-Mar-2019 11:19:01 UTC] PHP Stack trace:
+[24-Mar-2019 11:19:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/report.php:0
+[24-Mar-2019 11:19:01 UTC] PHP   2. header() /home/ubuntu/workspace/Project/pages/report.php:168
+[24-Mar-2019 11:20:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ubuntu/workspace/Project/pages/report.php:164) in /home/ubuntu/workspace/Project/pages/report.php on line 168
+[24-Mar-2019 11:20:41 UTC] PHP Stack trace:
+[24-Mar-2019 11:20:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/report.php:0
+[24-Mar-2019 11:20:41 UTC] PHP   2. header() /home/ubuntu/workspace/Project/pages/report.php:168
+[24-Mar-2019 11:22:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ubuntu/workspace/Project/pages/report.php:164) in /home/ubuntu/workspace/Project/pages/report.php on line 168
+[24-Mar-2019 11:22:33 UTC] PHP Stack trace:
+[24-Mar-2019 11:22:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/report.php:0
+[24-Mar-2019 11:22:33 UTC] PHP   2. header() /home/ubuntu/workspace/Project/pages/report.php:168
+[24-Mar-2019 17:36:13 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/Project/pages/index.php on line 53
+[26-Mar-2019 01:21:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ubuntu/workspace/Project/pages/report.php:197) in /home/ubuntu/workspace/Project/pages/report.php on line 239
+[26-Mar-2019 01:21:01 UTC] PHP Stack trace:
+[26-Mar-2019 01:21:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/report.php:0
+[26-Mar-2019 01:21:01 UTC] PHP   2. header() /home/ubuntu/workspace/Project/pages/report.php:239
+[26-Mar-2019 20:57:17 UTC] PHP Fatal error:  Call to undefined function searchProduct() in /home/ubuntu/workspace/Project/pages/home.php on line 136
+[26-Mar-2019 20:57:17 UTC] PHP Stack trace:
+[26-Mar-2019 20:57:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/home.php:0
+[26-Mar-2019 20:57:42 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 532
+[26-Mar-2019 20:57:42 UTC] PHP Stack trace:
+[26-Mar-2019 20:57:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/home.php:0
+[26-Mar-2019 20:59:27 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 532
+[26-Mar-2019 20:59:27 UTC] PHP Stack trace:
+[26-Mar-2019 20:59:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/home.php:0
+[26-Mar-2019 21:00:51 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 532
+[26-Mar-2019 21:00:51 UTC] PHP Stack trace:
+[26-Mar-2019 21:00:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/home.php:0
+[26-Mar-2019 21:03:09 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 532
+[26-Mar-2019 21:03:09 UTC] PHP Stack trace:
+[26-Mar-2019 21:03:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/home.php:0
+[26-Mar-2019 21:04:04 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 532
+[26-Mar-2019 21:04:04 UTC] PHP Stack trace:
+[26-Mar-2019 21:04:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/home.php:0
+[26-Mar-2019 21:04:08 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 532
+[26-Mar-2019 21:04:08 UTC] PHP Stack trace:
+[26-Mar-2019 21:04:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/products.php:0
+[26-Mar-2019 21:04:08 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 532
+[26-Mar-2019 21:04:08 UTC] PHP Stack trace:
+[26-Mar-2019 21:04:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/entertainment_product.php:0
+[26-Mar-2019 21:04:09 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 532
+[26-Mar-2019 21:04:09 UTC] PHP Stack trace:
+[26-Mar-2019 21:04:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/electronics_product.php:0
+[26-Mar-2019 21:04:14 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 532
+[26-Mar-2019 21:04:14 UTC] PHP Stack trace:
+[26-Mar-2019 21:04:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/home.php:0
+[26-Mar-2019 21:04:18 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 532
+[26-Mar-2019 21:04:18 UTC] PHP Stack trace:
+[26-Mar-2019 21:04:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/home.php:0
+[26-Mar-2019 21:04:20 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 532
+[26-Mar-2019 21:04:20 UTC] PHP Stack trace:
+[26-Mar-2019 21:04:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/home.php:0
+[26-Mar-2019 21:06:07 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 532
+[26-Mar-2019 21:06:07 UTC] PHP Stack trace:
+[26-Mar-2019 21:06:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/home.php:0
+[26-Mar-2019 21:06:09 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 532
+[26-Mar-2019 21:06:09 UTC] PHP Stack trace:
+[26-Mar-2019 21:06:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/home.php:0
+[26-Mar-2019 21:06:18 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 532
+[26-Mar-2019 21:06:18 UTC] PHP Stack trace:
+[26-Mar-2019 21:06:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/home.php:0
+[26-Mar-2019 21:06:20 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 532
+[26-Mar-2019 21:06:20 UTC] PHP Stack trace:
+[26-Mar-2019 21:06:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/home.php:0
+[26-Mar-2019 21:06:22 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 532
+[26-Mar-2019 21:06:22 UTC] PHP Stack trace:
+[26-Mar-2019 21:06:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/home.php:0
+[26-Mar-2019 21:06:36 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 532
+[26-Mar-2019 21:06:36 UTC] PHP Stack trace:
+[26-Mar-2019 21:06:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/home.php:0
+[26-Mar-2019 21:07:03 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 532
+[26-Mar-2019 21:07:03 UTC] PHP Stack trace:
+[26-Mar-2019 21:07:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/home.php:0
+[26-Mar-2019 21:07:16 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 532
+[26-Mar-2019 21:07:16 UTC] PHP Stack trace:
+[26-Mar-2019 21:07:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/home.php:0
+[26-Mar-2019 21:07:56 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 532
+[26-Mar-2019 21:07:56 UTC] PHP Stack trace:
+[26-Mar-2019 21:07:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/home.php:0
+[26-Mar-2019 21:08:14 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 532
+[26-Mar-2019 21:08:14 UTC] PHP Stack trace:
+[26-Mar-2019 21:08:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/products.php:0
+[26-Mar-2019 21:08:47 UTC] PHP Fatal error:  Call to undefined function searchProduct() in /home/ubuntu/workspace/Project/pages/home.php on line 135
+[26-Mar-2019 21:08:47 UTC] PHP Stack trace:
+[26-Mar-2019 21:08:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/home.php:0
+[26-Mar-2019 21:09:26 UTC] PHP Fatal error:  Call to undefined function searchProduct() in /home/ubuntu/workspace/Project/pages/home.php on line 136
+[26-Mar-2019 21:09:26 UTC] PHP Stack trace:
+[26-Mar-2019 21:09:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/home.php:0
+[26-Mar-2019 21:17:02 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 532
+[26-Mar-2019 21:17:02 UTC] PHP Stack trace:
+[26-Mar-2019 21:17:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/products.php:0
+[26-Mar-2019 21:17:09 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 532
+[26-Mar-2019 21:17:09 UTC] PHP Stack trace:
+[26-Mar-2019 21:17:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/products.php:0
+[27-Mar-2019 03:40:49 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/ubuntu/workspace/Project/pages/user_profile.php on line 265
+[27-Mar-2019 19:51:47 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/Project/pages/faq.php on line 67
+[28-Mar-2019 05:58:27 UTC] PHP Fatal error:  Cannot redeclare getGiveaway() (previously declared in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php:134) in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 665
+[28-Mar-2019 05:58:27 UTC] PHP Stack trace:
+[28-Mar-2019 05:58:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/user_profile.php:0
+[28-Mar-2019 05:58:58 UTC] PHP Fatal error:  Call to undefined function getMyGiveaways() in /home/ubuntu/workspace/Project/pages/user_profile.php on line 276
+[28-Mar-2019 05:58:58 UTC] PHP Stack trace:
+[28-Mar-2019 05:58:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/user_profile.php:0
+[28-Mar-2019 09:03:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/Project/pages/UserUploads/upload_function.php on line 758
+[28-Mar-2019 09:03:59 UTC] PHP Stack trace:
+[28-Mar-2019 09:03:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/services.php:0
+[28-Mar-2019 09:20:59 UTC] PHP Fatal error:  Call to undefined function searchGivaways() in /home/ubuntu/workspace/Project/pages/search_result.php on line 235
+[28-Mar-2019 09:20:59 UTC] PHP Stack trace:
+[28-Mar-2019 09:20:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/search_result.php:0
+[28-Mar-2019 09:23:09 UTC] PHP Fatal error:  Call to undefined function searchGivaways() in /home/ubuntu/workspace/Project/pages/search_result.php on line 235
+[28-Mar-2019 09:23:09 UTC] PHP Stack trace:
+[28-Mar-2019 09:23:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/search_result.php:0
+[28-Mar-2019 09:23:17 UTC] PHP Fatal error:  Call to undefined function searchGivaways() in /home/ubuntu/workspace/Project/pages/search_result.php on line 235
+[28-Mar-2019 09:23:17 UTC] PHP Stack trace:
+[28-Mar-2019 09:23:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/search_result.php:0
+[28-Mar-2019 09:26:57 UTC] PHP Fatal error:  Call to undefined function searchGivaways() in /home/ubuntu/workspace/Project/pages/search_result.php on line 237
+[28-Mar-2019 09:26:57 UTC] PHP Stack trace:
+[28-Mar-2019 09:26:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/search_result.php:0
+[28-Mar-2019 09:27:08 UTC] PHP Fatal error:  Call to undefined function searchGivaways() in /home/ubuntu/workspace/Project/pages/search_result.php on line 237
+[28-Mar-2019 09:27:08 UTC] PHP Stack trace:
+[28-Mar-2019 09:27:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/search_result.php:0
+[28-Mar-2019 09:32:17 UTC] PHP Fatal error:  Call to undefined function searchGivaways() in /home/ubuntu/workspace/Project/pages/search_result.php on line 183
+[28-Mar-2019 09:32:17 UTC] PHP Stack trace:
+[28-Mar-2019 09:32:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project/pages/search_result.php:0
